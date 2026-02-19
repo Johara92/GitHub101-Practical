@@ -12,9 +12,8 @@
 ### Viktig for denne økten
 Vi bruker **Kursgrenen**: `github101-kurs` (IKKE `main`)
 
-1. **Fork** Dette repositoriet (Øverst til høyre -> *fork*)
-2. I *din fork*, klikk på **code -> Create codespace on main**
-3. Når **codespace** er opprettet: velg **branch = `github101-kurs`**
+1. **Åpne** Dette repositoriet (Øverst til høyre -> *<> Code*) -> **Clone** lokalt, eller åpne i **Codespaces**
+2. Når **codespace** er opprettet: velg **branch = `github101-kurs`**
 3. I **codespace** terminalen:
     ```bash
     git checkout -b doc/<ditt navn>     #din arbeidsgren for kurset
